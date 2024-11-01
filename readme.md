@@ -36,11 +36,3 @@ php artisan migrate --seed
 
 Few screenshots
 
-![image](https://user-images.githubusercontent.com/10188029/219660065-f7efb999-a7a6-4e2f-b126-2fe748f090b5.png)
-![image](https://user-images.githubusercontent.com/10188029/219660136-71c6d7c7-4ea7-4e33-a7ca-e69b512458c4.png)
-![image](https://user-images.githubusercontent.com/10188029/219660597-973db3e3-2c40-4c7e-97a4-0cd77d8e0eda.png)
-![image](https://user-images.githubusercontent.com/10188029/219660900-b7bfd80d-df19-4dfa-a76e-7073b2eecd7c.png)
-![image](https://user-images.githubusercontent.com/10188029/219663139-44452670-3c2a-4807-8429-595b9d779833.png)
-![image](https://user-images.githubusercontent.com/10188029/219663177-f2db0e01-f6f4-4ec0-8e4c-30f048293582.png)
-![image](https://user-images.githubusercontent.com/10188029/219663873-5c5eb658-629e-41b4-ae2a-3c462a9dd1fc.png)
-
